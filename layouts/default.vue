@@ -40,9 +40,10 @@ nav {
   display: flex;
   gap: 1rem;
   padding: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: bold;
   color: white;
+  text-transform: uppercase;
 }
 .router-link-active {
   color:tomato
